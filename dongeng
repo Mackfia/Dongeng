@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dongeng Snow White</title>
+    <style>
+.header{padding: 30px;
+        text-align: center;
+        background: #e5f9ff;}
+
+.header h1{font-size: 50px;}
+
+.topnav{overflow: hidden;
+        background-color: #91C8E4}
+
+.topnav a{float: left;
+          display: block;
+          color: #f2f2f2;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;}
+
+.tonav a:hover{background-color: #ddd;
+               color: black;}
+
+.column{width: 75%;}
+
+.leftcolumn{float: left;
+            width: 75%;}
+
+.rightcolumn{float: left;    
+             width: 25%;
+             background-color: #F6F4EB;
+             padding-left: 20px;}
+
+.card{background-color: write;
+      padding: 20px;
+      margin-top: 20px;
+      font-size: 45px;}
+
+.title{font-size: 20px;}
+
+.row:after {content: "";
+            display: table;
+            clear: both;}
+
+.footer {padding: 20px;
+         text-align: center;
+         background:#91C8E4;
+         margin-top: 20px;}
+
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}
+@media screen and (max-width: 400px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+    <div class="header">
+        <h1>Dongeng</h1>
+    </div>
+        <div class="topnav">
+            <a href="home.html" class="active">Home</a>
+            <a href="sinopsis.html">Sinopsis</a>
+            <a href="cerita.html">Dongeng</a>
+            <a href="tokoh.html">Tokoh</a>
+            </div>
+            <center><div class="title">
+                <br><h1>Snow White</h1><br></div>
+                <img src="tertidur.jpg" alt="Putri Salju" width="764" height="430"><br>
+                <p>Di suatu tempat dan waktu yang lama, hidup seorang ratu yang sangat cantik. Dia memiliki cermin ajaib yang dia tanyakan setiap hari,
+                <br> "Cermin ajaib di dinding, siapa yang tercantik di negeri ini?" Untuk waktu yang lama, cermin itu selalu menjawab, "Ratu, engkau adalah yang 
+                <br> tercantik di negeri ini."Namun, suatu hari, ketika putri bernama Snow White tumbuh dewasa, cermin menjawab dengan berbeda, "Oh, Ratu, engkau
+                <br> cantik, itu benar. Tetapi Snow White yang tinggal di dalam hutan ini sekarang adalah yang tercantik di antara semuanya."Ratu sangat cemburu
+                <br> mendengar jawaban ini. Dia sangat marah dan memerintahkan seorang pemburu untuk membawa Snow White ke hutan dan membunuhnya. Pemburu itu membawa
+                <br> Snow White ke hutan, tetapi dia tidak memiliki hati untuk membunuh gadis muda yang begitu baik hati. Sebagai gantinya, dia memberi tahu Snow White
+                <br> untuk melarikan diri dan menjauh dari istana. Snow White berlari ke dalam hutan yang gelap dan lebat. Dia merasa ketakutan dan kelelahan, tetapi
+                <br> akhirnya tiba di sebuah rumah kecil yang ditinggalkan. Rumah itu milik tujuh kurcaci yang bekerja di tambang berlian. Mereka menawarkan tempat
+                <br> tinggal kepada Snow White jika dia bersedia melakukan pekerjaan rumah tangga. Ratu jahat, yang mengetahui bahwa Snow White masih hidup, berusaha
+                <br> untuk membunuhnya beberapa kali. Dia mengirim seorang pedagang yang menjual apel beracun, seorang tukang cukur yang membawa sabit beracun, dan 
+                <br> bahkan berdandan sebagai ibu tua yang menjual pita beracun. Tetapi setiap kali, upaya jahatnya digagalkan oleh kurcaci yang memperingatkan Snow White
+                <br> tentang bahaya. Suatu hari, seorang pangeran tampan lewat di dekat rumah kurcaci. Dia melihat Snow White yang tidur dengan indah dan jatuh cinta padanya.
+                <br> Dia mencium Snow White dan ciumannya membangunkannya dari tidur akibat apel beracun yang dia makan sebelumnya. Snow White dan pangeran tersebut jatuh cinta 
+                <br> dan berencana untuk menikah. Mereka mengundang semua orang ke istana untuk merayakan pernikahan mereka, termasuk ratu jahat yang masih hidup dan tidak menyadari
+                <br> bahwa Snow White masih hidup.Ketika ratu jahat tiba di pesta pernikahan, dia mengenali Snow White dan marah. Dia akhirnya menerima hukuman yang pantas atas 
+                <br> tindakannya yang jahat. Snow White dan pangeran hidup bahagia selamanya, dan cerita ini mengajarkan nilai-nilai seperti kebaikan hati, persahabatan, keberanian, dan cinta sejati.</p></center>
+            <br><div class="footer">
+            <h5>copyright @fianmackfia</h5>
+            </div>
+</body>
+<head>
+<body>
+</body>
+</html>
